@@ -60,6 +60,7 @@ Additionally, **depending on your model**, the integration provides the followin
 - **Select**:
   - `Water amount`: Specify the water amount used during cleaning with the mop.
   - `Work mode`: Specify the mode, how the bot should clean.
+  - `Mop Auto-Wash Frequency`: When mop auto-wash mode is set to timed, specify how often the bot should return to the base station for mop washing.
 - **Sensor**:
   - `Error`: The error code and a description of the error. `0` means no error. Disabled by default.
   - `Lifespan`: For each supported component, an entity with the remaining lifespan will be created.
